@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib.widgets import Button
 import time
 
-# TODO add step counter..
+
 
 
 class Main():
